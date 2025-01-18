@@ -1,3 +1,1 @@
-Zach Steinman zrsteinman@waketech.edu
-this is my school account
-This is where my assignments will be held
+Zach Steinman zrsteinman@waketech.edu This is my school account and my assignments will be held here
